@@ -1,8 +1,8 @@
 # urban-arch-flowlab
 
-Welcome to the GitHub profile of **urban-arch-flowlab**.
+Welcome to the GitHub profile of urban-arch-flowlab.
 
-We are the Yudai HONMA Laboratory at Institute of Industrial Science, the University of Tokyo, exploring new possibilities in urban and architectural systems through computational and data-driven methods.  
+We are the **Yudai HONMA Laboratory** at Institute of Industrial Science, the University of Tokyo, exploring new possibilities in urban and architectural systems through computational and data-driven methods.  
 Our work spans urban mobility, spatial planning, and optimization.  
 Learn more at [Honma Laboratory, IIS, University of Tokyo](http://www.honma-lab.iis.u-tokyo.ac.jp/).
 
@@ -13,8 +13,6 @@ Learn more at [Honma Laboratory, IIS, University of Tokyo](http://www.honma-lab.
 ### 🔹 [GMNS_Plus_Dataset_Tokyo](https://github.com/urban-arch-flowlab/GMNS_Plus_Dataset_Tokyo)
 A simplified GMNS-based dataset for the Tokyo metropolitan area.  
 Includes road networks and demand data.
-
----
 
 ## 🔗 Related Projects (External)
 
