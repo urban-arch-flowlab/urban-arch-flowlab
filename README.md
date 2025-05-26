@@ -22,5 +22,5 @@ A tool for visualizing spatial convexity in architectural and urban environments
 Pedestrian–vehicle layered network construction tool.
 
 ### 🔸 [hasada83d/Toncatsu](https://github.com/hasada83d/Toncatsu)
-Map-matching tool from observed GPS / GNSS points data.
+Map-matching tool from observed GPS/GNSS points data.
 
