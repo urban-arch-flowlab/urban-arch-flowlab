@@ -6,7 +6,6 @@ We are the **Yudai HONMA Laboratory** at Institute of Industrial Science, the Un
 Our work spans urban mobility, spatial planning, and optimization.  
 Learn more at [Honma Laboratory, IIS, University of Tokyo](http://www.honma-lab.iis.u-tokyo.ac.jp/).
 
----
 
 ## 📂 Featured Repositories
 
